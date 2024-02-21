@@ -1,0 +1,5 @@
+C:\Users\AlexandreFrancony\Downloads\Git\ESILV-ING3-C-\Scripts\TD2_AF_PART2\TD2_AF_PART2\obj\Debug\net8.0\TD2_AF_PART2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexandreFrancony\Downloads\Git\ESILV-ING3-C-\Scripts\TD2_AF_PART2\TD2_AF_PART2\obj\Debug\net8.0\TD2_AF_PART2.AssemblyInfoInputs.cache
+C:\Users\AlexandreFrancony\Downloads\Git\ESILV-ING3-C-\Scripts\TD2_AF_PART2\TD2_AF_PART2\obj\Debug\net8.0\TD2_AF_PART2.AssemblyInfo.cs
+C:\Users\AlexandreFrancony\Downloads\Git\ESILV-ING3-C-\Scripts\TD2_AF_PART2\TD2_AF_PART2\obj\Debug\net8.0\TD2_AF_PART2.csproj.CoreCompileInputs.cache
+C:\Users\AlexandreFrancony\Downloads\Git\ESILV-ING3-C-\Scripts\TD2_AF_PART2\TD2_AF_PART2\obj\Debug\net8.0\TD2_AF_PART2.sourcelink.json

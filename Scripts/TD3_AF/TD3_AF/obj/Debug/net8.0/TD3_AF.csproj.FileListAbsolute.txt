@@ -1,0 +1,15 @@
+C:\Users\AlexandreFrancony\Downloads\Git\ESILV-ING3-C-\Scripts\TD3_AF\TD3_AF\bin\Debug\net8.0\TD3_AF.exe
+C:\Users\AlexandreFrancony\Downloads\Git\ESILV-ING3-C-\Scripts\TD3_AF\TD3_AF\bin\Debug\net8.0\TD3_AF.deps.json
+C:\Users\AlexandreFrancony\Downloads\Git\ESILV-ING3-C-\Scripts\TD3_AF\TD3_AF\bin\Debug\net8.0\TD3_AF.runtimeconfig.json
+C:\Users\AlexandreFrancony\Downloads\Git\ESILV-ING3-C-\Scripts\TD3_AF\TD3_AF\bin\Debug\net8.0\TD3_AF.dll
+C:\Users\AlexandreFrancony\Downloads\Git\ESILV-ING3-C-\Scripts\TD3_AF\TD3_AF\bin\Debug\net8.0\TD3_AF.pdb
+C:\Users\AlexandreFrancony\Downloads\Git\ESILV-ING3-C-\Scripts\TD3_AF\TD3_AF\obj\Debug\net8.0\TD3_AF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexandreFrancony\Downloads\Git\ESILV-ING3-C-\Scripts\TD3_AF\TD3_AF\obj\Debug\net8.0\TD3_AF.AssemblyInfoInputs.cache
+C:\Users\AlexandreFrancony\Downloads\Git\ESILV-ING3-C-\Scripts\TD3_AF\TD3_AF\obj\Debug\net8.0\TD3_AF.AssemblyInfo.cs
+C:\Users\AlexandreFrancony\Downloads\Git\ESILV-ING3-C-\Scripts\TD3_AF\TD3_AF\obj\Debug\net8.0\TD3_AF.csproj.CoreCompileInputs.cache
+C:\Users\AlexandreFrancony\Downloads\Git\ESILV-ING3-C-\Scripts\TD3_AF\TD3_AF\obj\Debug\net8.0\TD3_AF.sourcelink.json
+C:\Users\AlexandreFrancony\Downloads\Git\ESILV-ING3-C-\Scripts\TD3_AF\TD3_AF\obj\Debug\net8.0\TD3_AF.dll
+C:\Users\AlexandreFrancony\Downloads\Git\ESILV-ING3-C-\Scripts\TD3_AF\TD3_AF\obj\Debug\net8.0\refint\TD3_AF.dll
+C:\Users\AlexandreFrancony\Downloads\Git\ESILV-ING3-C-\Scripts\TD3_AF\TD3_AF\obj\Debug\net8.0\TD3_AF.pdb
+C:\Users\AlexandreFrancony\Downloads\Git\ESILV-ING3-C-\Scripts\TD3_AF\TD3_AF\obj\Debug\net8.0\TD3_AF.genruntimeconfig.cache
+C:\Users\AlexandreFrancony\Downloads\Git\ESILV-ING3-C-\Scripts\TD3_AF\TD3_AF\obj\Debug\net8.0\ref\TD3_AF.dll
