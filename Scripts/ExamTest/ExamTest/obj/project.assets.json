@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AlexandreFrancony\\Downloads\\Git\\ESILV-ING3-C-\\Scripts\\TD1_AF\\TD1_AF\\TD1_AF.csproj",
-      "projectName": "TD1_AF",
-      "projectPath": "C:\\Users\\AlexandreFrancony\\Downloads\\Git\\ESILV-ING3-C-\\Scripts\\TD1_AF\\TD1_AF\\TD1_AF.csproj",
+      "projectUniqueName": "C:\\Users\\AlexandreFrancony\\Downloads\\Git\\ESILV-ING3-C-\\Scripts\\ExamTest\\ExamTest\\ExamTest.csproj",
+      "projectName": "ExamTest",
+      "projectPath": "C:\\Users\\AlexandreFrancony\\Downloads\\Git\\ESILV-ING3-C-\\Scripts\\ExamTest\\ExamTest\\ExamTest.csproj",
       "packagesPath": "C:\\Users\\AlexandreFrancony\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AlexandreFrancony\\Downloads\\Git\\ESILV-ING3-C-\\Scripts\\TD1_AF\\TD1_AF\\obj\\",
+      "outputPath": "C:\\Users\\AlexandreFrancony\\Downloads\\Git\\ESILV-ING3-C-\\Scripts\\ExamTest\\ExamTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AlexandreFrancony\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,11 +40,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -66,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
